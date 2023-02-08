@@ -6,6 +6,7 @@
     "postinstall": "flex-plugin pre-script-check"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
     "@twilio/flex-plugin-scripts": "6.0.4",
     "react": "16.5.2",
     "react-dom": "16.5.2",
